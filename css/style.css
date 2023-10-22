@@ -332,7 +332,7 @@
 }
 .mob-btn{
     display: none;
-}
+} 
 @media(max-width:1120px){
     .container{
         padding: 0 20px;
